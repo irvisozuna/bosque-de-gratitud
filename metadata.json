@@ -1,0 +1,8 @@
+{
+  "name": "Gratitude Forest",
+  "description": "A 3D magical winter forest where users send and receive floating gratitude messages.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
